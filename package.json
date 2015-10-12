@@ -1,7 +1,7 @@
 {
   "name": "commonmark-dom-creator",
-  "version": "0.0.1",
-  "description": "create and update Document Object Model from abstract syntax tree created by commonmark.js",
+  "version": "0.0.2",
+  "description": "create and incrementally update Document Object Model from abstract syntax tree created by commonmark.js",
   "main": "index.js",
   "scripts": {
     "test": "node_modules/.bin/mocha test"
